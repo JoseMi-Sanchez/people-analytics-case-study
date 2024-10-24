@@ -1,7 +1,7 @@
 
 # 🚀 Welcome to the People Analytics Case Study
 
-Hello, business enthusiast! 🌍 I'm Josemi Sánchez, and this project provides a comprehensive analysis of employee data. The goal is to explore employee demographics, key metrics, and trends that can assist in better decision-making for HR departments.
+Hello, business enthusiast! 🌍 I'm [Josemi Sánchez](https://www.linkedin.com/in/josemiguelsanchez4/), and this project provides a comprehensive analysis of employee data. The goal is to explore employee demographics, key metrics, and trends that can assist in better decision-making for HR departments.
 
 ## 📊 Project Overview
 
