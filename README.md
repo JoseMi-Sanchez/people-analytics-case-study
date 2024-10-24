@@ -8,22 +8,22 @@ Hello, business enthusiast! 🌍 I'm Josemi Sánchez, and this project provides 
 In this case study, we work with a fictitious dataset generated for educational purposes. The dataset is sourced from [data.world](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Human+Resources.csv). This dataset was selected due to the difficulty of accessing real-world employee data from actual companies.
 
 The project consists of two main parts:
-1. **Data Preparation**: Cleaning and transforming the HR dataset to ensure it is ready for analysis.
-2. **Data Analysis**: Extracting valuable insights regarding employee demographics, gender, age distribution, and other key metrics.
+1. **Data Preparation**: cleaning and transforming the HR dataset to ensure it is ready for analysis.
+2. **Data Analysis**: extracting valuable insights regarding employee demographics, gender, age distribution, and other key metrics.
 
 ## 🛠️ Key Processes
 
 ### 1. Data Cleaning
 
-- **Data Inspection**: The HR dataset is thoroughly examined to understand its structure and identify potential issues, such as missing values and inconsistencies.
-- **Data Transformation**: Columns are renamed for consistency, and necessary conversions are applied to ensure the data types are accurate.
-- **Data Export**: The cleaned dataset is stored in a database for further analysis and querying.
+- **Data Inspection**: the HR dataset is thoroughly examined to understand its structure and identify potential issues, such as missing values and inconsistencies.
+- **Data Transformation**: columns are renamed for consistency, and necessary conversions are applied to ensure the data types are accurate.
+- **Data Export**: the cleaned dataset is stored in a database for further analysis and querying.
 
 ### 2. Data Analysis
 
-- **Employee Breakdown**: Using SQL queries, we analyze the gender and ethnicity breakdown of employees to identify trends and possible biases.
-- **Age Distribution**: The age distribution of employees is categorized and analyzed to help understand workforce demographics.
-- **Insight Extraction**: We explore additional key metrics, such as retention rates and turnover, to derive meaningful insights from the data.
+- **Employee Breakdown**: using SQL queries, we analyze the gender and ethnicity breakdown of employees to identify trends and possible biases.
+- **Age Distribution**: the age distribution of employees is categorized and analyzed to help understand workforce demographics.
+- **Insight Extraction**: we explore additional key metrics, such as retention rates and turnover, to derive meaningful insights from the data.
 
 ## 🤖 Chatbot Implementation
 
